@@ -91,7 +91,7 @@ gh  repo  clone  hugopassosdev/desafio-keevo.git
 
 ## 📊 Arquivo PBIX do Projeto
 
-- `desafio_keevo` → disponível em [Google Drive]([text](https://drive.google.com/file/d/1coilY5-ZYTztwfv18ren4PkMF2S4TqFB/view?usp=sharing))  
+- `desafio_keevo` → disponível em [Google Drive](https://drive.google.com/file/d/1coilY5-ZYTztwfv18ren4PkMF2S4TqFB/view?usp=sharing)  
 
 ---
 
