@@ -64,7 +64,7 @@ Visão consolidada para a alta gestão (C-Level). O foco aqui é responder se a 
 * **Destaques:** Acompanhamento da tendência de Receita vs. Investimento, cálculo do ROAS (Retorno sobre Investimento) global e análise geográfica de receita.
 * **Insight Principal:** Identificação de um ponto de virada na eficiência financeira a partir de meados de 2024, onde a receita descola do investimento.
 
-![Sumário Executivo](./assets/sumario_executivo.jpg)
+![Sumário Executivo](./assets/sumario_executivo.png)
 
 ### 2. Comercial (Funil & Vendas)
 Foco na eficiência do processo de vendas e na qualidade da base de clientes.
