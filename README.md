@@ -55,6 +55,33 @@ O dashboard é organizado em 3 abas, respondendo às seguintes perguntas de neg�
 
 ---
 
+## 🖥️ Visualização do Projeto
+
+O dashboard foi estruturado em três visões estratégicas para facilitar a navegação entre o macro (financeiro) e o micro (operacional).
+
+### 1. Sumário Executivo
+Visão consolidada para a alta gestão (C-Level). O foco aqui é responder se a empresa está financeiramente saudável.
+* **Destaques:** Acompanhamento da tendência de Receita vs. Investimento, cálculo do ROAS (Retorno sobre Investimento) global e análise geográfica de receita.
+* **Insight Principal:** Identificação de um ponto de virada na eficiência financeira a partir de meados de 2024, onde a receita descola do investimento.
+
+![Sumário Executivo](./assets/sumario_executivo.jpg)
+
+### 2. Comercial (Funil & Vendas)
+Foco na eficiência do processo de vendas e na qualidade da base de clientes.
+* **Destaques:** Análise visual do Funil de Vendas para identificação de gargalos (Drop-off rate), Correlação estratégica entre LTV (Lifetime Value) e CAC (Custo de Aquisição), e monitoramento da Taxa de Churn por segmento.
+* **Insight Principal:** O segmento de Tecnologia possui o maior LTV, mas exige atenção na retenção (Churn).
+
+![Comercial e Vendas](./assets/comercial.png)
+
+### 3. Marketing & Campanhas
+Foco na otimização de alocação de verba e performance de canais.
+* **Destaques:** Ranking de canais baseado no trade-off entre ROAS e CPL (Custo por Lead), permitindo identificar onde o dinheiro rende mais. Matriz de detalhamento técnico para otimização de criativos (CTR vs CPC).
+* **Insight Principal:** Canais de referência e LinkedIn apresentam o melhor ROAS, sugerindo oportunidade de realocação de budget de canais menos eficientes.
+
+![Marketing e Campanhas](./assets/marketing.png)
+
+---
+
 ## 🚀 Tecnologias utilizadas
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)![DAX](https://img.shields.io/badge/DAX-blue?style=for-the-badge&logo=powerbi&logoColor=white)![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
