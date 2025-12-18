@@ -1,15 +1,11 @@
 # 📊 Desafio Analista de Dados – KEEVO SOFTWARE
 
-Bem-vindo(a) ao projeto **Desafio Analista de Dados – ABRASEL**!  
-Este repositório contém a entrega técnica da segunda etapa do processo seletivo para Analista de Dados, focada na construção de um dashboard analítico de Performance Comercial e Marketing.
+Bem-vindo(a) ao projeto **Desafio Analista de Dados – Keevo Software**!  
+Este repositório contém a entrega técnica, focada na construção de um dashboard analítico de Performance Comercial e Marketing.
 
 ---
 
-## 🎯 Objetivo
-
-O objetivo principal do desafio era avaliar o **domínio técnico da ferramenta (Power BI)**, a **capacidade analítica** e a **clareza visual** na tradução de dados em insights estratégicos.
-
-A entrega demonstra a capacidade de:
+## 🎯 Objetivos
 
 - Modelar e tratar dados de performance (marketing/vendas).
 - Calcular métricas complexas (DAX).
